@@ -19,3 +19,9 @@ This Project is developed by,
 ---
 
 Live Demo: [Click Here](http://still-anchorage-78289.herokuapp.com/ "Click Here")
+
+**Home Page**
+![Screenshot 1](https://github.com/attainu/robin-oxybnb/blob/master/Oxybnb1.png "Screenshot 1")
+
+**Hotels View Page**
+![Screenshot 2](https://github.com/attainu/robin-oxybnb/blob/master/Oxybnb2.png "Screenshot 2")
